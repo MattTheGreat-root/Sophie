@@ -85,6 +85,5 @@ HF_MODEL	:= e.g. openai/gpt-oss-20b:groq
 
 Render will set:
   RENDER_EXTERNAL_URL
-  PORT
+  <br>PORT
   
-After deploy, the bot sets the webhook automatically to: "https://<your-render-url>/webhook"
