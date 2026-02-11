@@ -87,4 +87,4 @@ Render will set:
   RENDER_EXTERNAL_URL
   PORT
   
-After deploy, the bot sets the webhook automatically to: https://<your-render-url>/webhook
+After deploy, the bot sets the webhook automatically to: "https://<your-render-url>/webhook"
