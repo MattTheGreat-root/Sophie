@@ -1,4 +1,4 @@
-# Sophia Telegram Bot (LLM + occasional roasts)
+# Sophia Telegram Bot (LLM + occasional comments)
 
 A Vibe-coded Telegram group bot that:
 - Replies when you **mention** her (e.g. `@SophiaBot ...`)
